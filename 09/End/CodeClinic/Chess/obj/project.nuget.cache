@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "sJl2zeyeCTPA39ozSVZtC/CuWME/ckgS8G6LwILR85mjryzoPo9FztFcS2DbjSe8DTab7Rreol6IqJGrwYlS1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlexandraKorbalevich\\Documents\\Computer science\\Alex\\Ex_Files_Code_Clinic_C_Sharp\\Exercise Files\\Ch03\\09\\End\\CodeClinic\\Chess\\Chess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlexandraKorbalevich\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\AlexandraKorbalevich\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\AlexandraKorbalevich\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\AlexandraKorbalevich\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\AlexandraKorbalevich\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\AlexandraKorbalevich\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\AlexandraKorbalevich\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
